@@ -1,0 +1,13 @@
+.school{
+    height:600px;
+     width: 1349px;
+}
+.travel_mainDiv{
+    border: 1px solid lightgrey;
+}
+.travel_mainDiv img{
+    width: 100%;
+}
+.travel_mainDiv, .travel_mainDiv p{
+    margin: 20px;
+}
